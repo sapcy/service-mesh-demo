@@ -22,6 +22,8 @@ npm start
 [2024-05-28T05:13:48.239Z] * VERSION=v1
 [2024-05-28T05:13:48.239Z] * RANDOM_ERROR=10%
 [2024-05-28T05:13:48.239Z] * LOG=1
+[2024-05-28T06:05:50.124Z] 200 Response - v1 : {"headers":{"host":"localhost:8080","user-agent":"curl/7.79.1","accept":"*/*"}}
+[2024-05-28T06:05:36.699Z] 503 Response - v1 : {"headers":{"host":"localhost:8080","user-agent":"curl/7.79.1","accept":"*/*"}}
 ```
 
 ### Client side
